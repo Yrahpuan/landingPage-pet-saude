@@ -9,4 +9,4 @@ Tecnologias usadas
 - CSS3
 - JavaScript
 
-Para visualizar a página, ou clone o repositório e abra o arquivo index.html em um navegador ou acesse via https://yrahpuan.github.io/pet-saude-landingPage/
+Para visualizar a página, ou clone o repositório e abra o arquivo index.html em um navegador ou acesse via https://yrahpuan.github.io/landingPage-pet-saude/
